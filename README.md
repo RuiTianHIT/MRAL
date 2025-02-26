@@ -1,5 +1,5 @@
 # MRAL
-- Our codebase is built upon  [MMDetection](https://github.com/open-mmlab/mmdetection)(2.20.0) and [MMDetection](https://github.com/open-mmlab/mmdetection), which can be installed following the offcial instuctions.
+- Our codebase is built upon  [MMDetection](https://github.com/open-mmlab/mmdetection)(2.20.0) and [PPAL]([https://github.com/open-mmlab/mmdetection](https://github.com/ChenhongyiYang/PPAL)), which can be installed following the offcial instuctions.
 ## Usage
 
 ### Installation
