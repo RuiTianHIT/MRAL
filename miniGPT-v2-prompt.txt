@@ -1,0 +1,22 @@
+Can you tell me the location of the person on the image. Share the x_min, y_min, x_max and y_max in 0-1 normalized space. Only return the numbers, nothing else.
+
+Tell me where is the person on the image. Share the x_min, y_min, x_max and y_max in 0-1 normalized space. Only return the numbers, nothing else.
+
+
+What is in this image,and can you tell me the location of the person on the image. Share the x_min, y_min, x_max and y_max in 0-1 normalized space. Only return the numbers and their species, nothing else.
+
+I am the person in the picture,tell me my location.Share the x_min, y_min, x_max and y_max in 0-1 normalized space. Only return the numbers, nothing else.
+
+I have labeled a bright numeric ID at the center for each visual object in the image.Please enumerate their names and positions with x_min, y_min, x_max and y_max in 0-1 normalized space.You must answer by selecting from the following names:[aeroplane, bicycle, bird, boat, bottle, bus, car, cat, chair, cow, diningtable, dog, horse, motorbike, person, pottedplant, sheep, sofa, train, tvmonitor]
+
+I have labeled a bright numeric ID at the center for each visual object in the image.Please enumerate their names (ignoring not belong to the following names: [aeroplane, bicycle, bird, boat, bottle, bus, car, cat, chair, cow, diningtable, dog, horse, motorbike, person, pottedplant, sheep, sofa, train, tvmonitor]) and positions with x_min, y_min, x_max and y_max in 0-1 normalized space.Only return [name, x_min, y_min, x_max and y_max], nothing else.
+
+I have labeled a bright numeric ID at the center for each visual object in the image.Please enumerate their names (should belong to the following names: [aeroplane, bicycle, bird, boat, bottle, bus, car, cat, chair, cow, diningtable, dog, horse, motorbike, person, pottedplant, sheep, sofa, train, tvmonitor]) and positions with x_min, y_min, x_max and y_max in 0-1 normalized space.Only return [name, x_min, y_min, x_max and y_max], nothing else.
+
+Please enumerate each visual object's names (should belong to the following names: [aeroplane, bicycle, bird, boat, bottle, bus, car, cat, chair, cow, diningtable, dog, horse, motorbike, person, pottedplant, sheep, sofa, train, tvmonitor]) and positions with x_min, y_min, x_max and y_max in 0-1 normalized space.Only return [name, x_min, y_min, x_max and y_max], nothing else.
+
+
+If [aeroplane, bicycle, bird, boat, bottle, bus, car, cat, chair, cow, diningtable, dog, horse, motorbike, person, pottedplant, sheep, sofa, train, tvmonitor] exist in the image, return [name, x_min, y_min, x_max and y_max], nothing else.
+
+If [aeroplane, bicycle, bird, boat, bottle, bus, car, cat, chair, cow, diningtable, dog, horse, motorbike, person, pottedplant, sheep, sofa, train, tvmonitor] exist in the image, return normalized [name, x_min, y_min, x_max , y_max], nothing else.
+
