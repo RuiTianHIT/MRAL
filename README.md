@@ -1,5 +1,5 @@
 # MRAL
-Our codebase is built upon MMDetection(2.20.0) and PPAL, which can be installed following the offcial instuctions.
+Our codebase is built upon [MMDetection(2.20.0)](https://mmdetection.readthedocs.io/zh-cn/v2.20.0/get_started.html) and [PPAL](https://github.com/ChenhongyiYang/PPAL), which can be installed following the offcial instuctions.
 
 # Usage
 ## Installation
